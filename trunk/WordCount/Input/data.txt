@@ -1,0 +1,1 @@
+this is the file which contains the input. this input will be used to test the wordcount example.
